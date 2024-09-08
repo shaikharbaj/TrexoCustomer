@@ -1,0 +1,12 @@
+{
+  "Menu": {
+    "menu": "menu",
+    "Dashboard": "Dashboard"
+  },
+  "DashboardPage": {
+    "welcome": "Welcome",
+    "back": "Back",
+    "dashboard": "dashboard",
+    "analytics": "analytics"
+  }
+}
